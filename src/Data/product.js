@@ -18,7 +18,7 @@ import img9 from "../assets/9_image.jpg";
 import img10 from "../assets/10_image.jpg";
 
 
-import amazon from "../assets/amazon_logo.png";
+//import amazon from "../assets/amazon_logo.png";
 // import hero from "../assets/hero_image.jpg";
 
 const product = [
