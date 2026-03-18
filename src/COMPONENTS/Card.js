@@ -13,7 +13,7 @@ export default function Card() {
            <>       
             
            { rowinx === 0 && (
-            <div className="hidden xl:block mt-16">
+            <div className="hidden lg:block mt-16">
               <img className=" w-full h-[600px] object-contain" src={hero} alt="error"/>
               </div>
             )}
